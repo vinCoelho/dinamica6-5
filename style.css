@@ -78,8 +78,8 @@ main {
 
 @media screen and (max-width: 600px) {
   .hotel-form {
-  flex-direction: column;
-    }
+    flex-direction: column;
+  }
 
   .checkin {
     align-items: center;
